@@ -1,1 +1,1 @@
-Это программа, которая шифрует введённое пользователем слово или фразу одним из механизмов: MD5 или SHA1.
+This is an application that can encrypts a user`s entered word or frase with using MD5 or SHA1.
